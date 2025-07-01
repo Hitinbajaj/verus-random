@@ -1,1 +1,1 @@
-# verus-random
+# Verus Random Number Generator
